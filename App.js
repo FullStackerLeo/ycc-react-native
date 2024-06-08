@@ -50,8 +50,5 @@ const styles = StyleSheet.create({
         flex: 1,
         paddingTop: 58,
     },
-    footerContainer: {
-        flex: 1 / 3,
-        alignItems: 'center',
-    },
+    footerContainer: {        flex: 1 / 3,        alignItems: 'center',    },
 });
